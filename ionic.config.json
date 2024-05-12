@@ -1,0 +1,8 @@
+{
+  "name": "UTS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "ada67e0f"
+}
